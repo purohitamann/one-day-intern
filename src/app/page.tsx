@@ -1,4 +1,7 @@
+'use client';
 import Image from "next/image";
+import { TempoDevtools } from "tempo-devtools";
+import { useEffect } from "react";
 
 export default function Home() {
   return (
